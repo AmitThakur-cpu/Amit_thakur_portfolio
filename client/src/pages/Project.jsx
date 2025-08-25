@@ -22,7 +22,7 @@ const projectsData = [
   {
     title: "WhatsApp Web Clone",
     description: "A real-time chat application built using MERN stack and Socket.IO for messaging functionality.",
-    image: "https://sdmntpreastus.oaiusercontent.com/files/00000000-5eb4-61f9-a4b6-c6300b5978b9/raw?se=2025-08-25T10%3A43%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=9239a3eb-3061-5b60-8cf4-207ed6775e70&skoid=b0fd38cc-3d33-418f-920e-4798de4acdd1&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-24T22%3A36%3A21Z&ske=2025-08-25T22%3A36%3A21Z&sks=b&skv=2024-08-04&sig=Is00JgWAD0i3c8gCf2u3sbQcKKwQUPhYQ5uwgV8bnwI%3D",
+    image: "https://www.shutterstock.com/shutterstock/photos/2102420704/display_1500/stock-vector-business-people-working-together-they-are-wearing-vr-headsets-and-having-a-virtual-meeting-2102420704.jpg",
     link: "https://fullstack-web-app-l6v9.onrender.com/",
   },
 ];
